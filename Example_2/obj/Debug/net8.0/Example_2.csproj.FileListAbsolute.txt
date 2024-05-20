@@ -1,0 +1,15 @@
+C:\GB\C#\Example_2\bin\Debug\net8.0\Example_2.exe
+C:\GB\C#\Example_2\bin\Debug\net8.0\Example_2.deps.json
+C:\GB\C#\Example_2\bin\Debug\net8.0\Example_2.runtimeconfig.json
+C:\GB\C#\Example_2\bin\Debug\net8.0\Example_2.dll
+C:\GB\C#\Example_2\bin\Debug\net8.0\Example_2.pdb
+C:\GB\C#\Example_2\obj\Debug\net8.0\Example_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\GB\C#\Example_2\obj\Debug\net8.0\Example_2.AssemblyInfoInputs.cache
+C:\GB\C#\Example_2\obj\Debug\net8.0\Example_2.AssemblyInfo.cs
+C:\GB\C#\Example_2\obj\Debug\net8.0\Example_2.csproj.CoreCompileInputs.cache
+C:\GB\C#\Example_2\obj\Debug\net8.0\Example_2.sourcelink.json
+C:\GB\C#\Example_2\obj\Debug\net8.0\Example_2.dll
+C:\GB\C#\Example_2\obj\Debug\net8.0\refint\Example_2.dll
+C:\GB\C#\Example_2\obj\Debug\net8.0\Example_2.pdb
+C:\GB\C#\Example_2\obj\Debug\net8.0\Example_2.genruntimeconfig.cache
+C:\GB\C#\Example_2\obj\Debug\net8.0\ref\Example_2.dll
